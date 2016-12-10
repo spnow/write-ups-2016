@@ -1,13 +1,11 @@
 # angstromCTF 2016 : not-a-pastry-40
 
 **Category:** Web
-**Points:** 
-**Solves:** 
+**Points:**
+**Solves:**
 **Description:**
 
-> We've discovered a [mysterious website](<http://web.angstromctf.com:1339/).> Can you retrieve the flag? 
-> 
-
+> We've discovered a [mysterious website](<http://web.angstromctf.com:1339/).> Can you retrieve the flag?
 
 ## Write-up
 
@@ -15,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [iPush](http://ipushino.blogspot.com/2016/04/angstromctf-2016-not-pastry-web-40.html)
